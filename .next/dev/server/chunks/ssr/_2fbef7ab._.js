@@ -2,6 +2,7 @@ module.exports = [
 "[project]/lib/supabase/client.ts [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
+// lib/supabase/client.ts
 __turbopack_context__.s([
     "createClient",
     ()=>createClient
